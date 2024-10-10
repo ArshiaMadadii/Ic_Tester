@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-3
+Removed Pin From Net: NetName=NetC10_1 Pin=U1-4
+Removed Pin From Net: NetName=NetC10_1 Pin=U1-5
+Removed Pin From Net: NetName=NetC7_1 Pin=U1-6
+Change Component Comment : Designator=C6 Old Comment=1u New Comment=15uH
+Change Component Designator: OldDesignator=ATmega16 NewDesignator=ATmega1
+Change Component Designator: OldDesignator=C6 NewDesignator=L
+Change Component Designator: OldDesignator=Push Butten NewDesignator=RESET1
+Change Component Designator: OldDesignator=R NewDesignator=R_RST1
+Change Component Designator: OldDesignator=R_PB NewDesignator=R_SW1
+Change Component Designator: OldDesignator=RESET NewDesignator=RESET2
+Add Component: Footprint Not Found SOT95P280X110-6N
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-3
+Added Pin To Net: NetName=NetC10_1 Pin=U1-4
+Added Pin To Net: NetName=NetC10_1 Pin=U1-5
+Added Pin To Net: NetName=NetC7_1 Pin=U1-6
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=L-1
+Added Pin To Net: NetName=NetC7_2 Pin=U1-2
+Added Net: Name=NetC7_2
